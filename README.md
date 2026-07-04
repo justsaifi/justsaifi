@@ -17,13 +17,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-saif-ali-shah)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedsaifali279@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedsaifalishah)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justsaifi)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=syedsaifalishah&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/syedsaifalishah?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/syedsaifalishah?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=justsaifi&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/justsaifi?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/justsaifi?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&label=STARS)
 
 </div>
 
@@ -122,7 +122,7 @@ End-to-end machine learning pipeline covering data ingestion, cleaning, feature 
 | **Performance** | Optimized preprocessing for reduced training time |
 | **Security** | Local data handling with sanitized input validation |
 | **Impact** | Reusable pipeline template for future ML coursework & internship tasks |
-| **Repository** | [github.com/syedsaifalishah/data-pipeline](https://github.com/syedsaifalishah) |
+| **Repository** | [github.com/justsaifi/data-pipeline](https://github.com/justsaifi) |
 
 Designed as a foundation project during ML engineering internship work, this pipeline emphasizes clean separation of concerns between preprocessing, training, and evaluation stages — enabling rapid experimentation across different model configurations.
 
@@ -141,7 +141,7 @@ A collection of custom landing pages and brand identity systems delivered for st
 | **Performance** | Lightweight, fast-loading responsive pages |
 | **Security** | Standard WordPress hardening practices |
 | **Impact** | Helped early-stage startups establish credible online presence |
-| **Repository** | [github.com/syedsaifalishah/landing-pages](https://github.com/syedsaifalishah) |
+| **Repository** | [github.com/justsaifi/landing-pages](https://github.com/justsaifi) |
 
 This project line reflects 1.5+ years of freelance experience integrating functional programming with aesthetic, conversion-focused design for online platforms.
 
@@ -160,7 +160,7 @@ Coursework-driven projects applying core computer science fundamentals in C++ an
 | **Performance** | Optimized algorithmic complexity for core operations |
 | **Security** | Input validation & defensive coding practices |
 | **Impact** | Strengthened core engineering fundamentals validated by top 3% academic standing |
-| **Repository** | [github.com/syedsaifalishah/academic-projects](https://github.com/syedsaifalishah) |
+| **Repository** | [github.com/justsaifi/academic-projects](https://github.com/justsaifi) |
 
 Built as part of the Software Engineering curriculum at Hazara University, these projects demonstrate strong command over OOP principles and algorithmic problem-solving.
 
@@ -231,10 +231,10 @@ Delivered branding, graphic design, and functional landing page development for 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8B5CF6)](https://leetcode.com/syedsaifalishah)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA)](https://geeksforgeeks.org/user/syedsaifalishah)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=7C3AED)](https://hackerrank.com/syedsaifalishah)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=6D28D9)](https://codechef.com/users/syedsaifalishah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8B5CF6)](https://leetcode.com/justsaifi)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA)](https://geeksforgeeks.org/user/justsaifi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=7C3AED)](https://hackerrank.com/justsaifi)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=6D28D9)](https://codechef.com/users/justsaifi)
 
 </div>
 
@@ -244,12 +244,12 @@ Delivered branding, graphic design, and functional landing page development for 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=syedsaifalishah&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsaifalishah&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=justsaifi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=justsaifi&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaifalishah&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsaifi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 
 </div>
 
@@ -259,7 +259,7 @@ Delivered branding, graphic design, and functional landing page development for 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=syedsaifalishah&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=justsaifi&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -269,7 +269,7 @@ Delivered branding, graphic design, and functional landing page development for 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedsaifalishah&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=7C3AED"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=justsaifi&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=7C3AED"/>
 
 </div>
 
@@ -279,7 +279,7 @@ Delivered branding, graphic design, and functional landing page development for 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/syedsaifalishah/syedsaifalishah/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/justsaifi/justsaifi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -313,7 +313,7 @@ current_focus:
 
 [![Gmail](https://img.shields.io/badge/-syedsaifali279@gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:syedsaifali279@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Syed%20Saif%20Ali%20Shah-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-saif-ali-shah)
-[![GitHub](https://img.shields.io/badge/-syedsaifalishah-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/syedsaifalishah)
+[![GitHub](https://img.shields.io/badge/-justsaifi-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/justsaifi)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
