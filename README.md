@@ -33,23 +33,6 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 
-```yaml
-profile:
-  name: "Syed Saif Ali Shah"
-  role: "Software Engineering Student & AI/ML Engineer"
-  university: "Hazara University, Mansehra"
-  program: "B.E. Software Engineering (2023 - 2027)"
-  standing: "Top 3% of Batch | CGPA 3.75"
-  focus:
-    - Machine Learning & Deep Learning
-    - Data-Driven Product Engineering
-    - Full Stack & Freelance Product Design
-    - Human-Computer Interaction
-  philosophy: >
-    Motivated engineer who bridges rigorous software engineering
-    fundamentals with applied machine learning, building intelligent,
-    production-minded solutions from data to deployment.
-```
 
 I'm a Software Engineering undergraduate with hands-on industry exposure as a **Machine Learning Engineering Intern**, focused on building intelligent systems that translate raw data into measurable, real-world impact. My foundation spans data structures & algorithms, OOP, database systems, and human-computer interaction — paired with a growing specialization in ML model design, preprocessing pipelines, and applied Python engineering. Alongside engineering, I bring **1.5+ years of freelance product design experience**, giving me a rare blend of technical depth and product/design sensibility.
 
